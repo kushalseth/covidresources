@@ -1,7 +1,7 @@
 {
   "name": "mycovid",
   "version": "0.2.0",
-  "homepage": "https://github.com/kushalseth/mycovid/covidresources",
+  "homepage": "https://kushalseth.github.io/mycovid/covidresources",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
