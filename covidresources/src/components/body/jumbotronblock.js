@@ -20,7 +20,7 @@ export default function JumbotronBlock({ props, settings, events }) {
           I am tring to build an application that can be actually useful for
           covid scenarios of India or any other developing country. <br />{" "}
           <br />
-          Thoughts in progress.
+          Thoughts In Progress
         </h5>
         <br /> <br />
         {/*<p className="font-monospace w-90 p-3">
@@ -56,13 +56,13 @@ export default function JumbotronBlock({ props, settings, events }) {
           <li class="list-group-item d-flex justify-content-between align-items-left">
             <h6 class="text-center font-monospace">
               {" "}
-              #myCovid: Covid Patient's Reviews:
+              #MyCovid: Covid Patient's Reviews
             </h6>
           </li>
           <li class="list-group-item d-flex justify-content-between align-items-left">
             It's too much to include for an application, removed Verified Jobs,
             Motivations, etc. Now, it's a Patient's Review Application. Let's
-            name it: #myCovid
+            name it: #MyCovid
             <br /> <br />
           </li>
         </ul>

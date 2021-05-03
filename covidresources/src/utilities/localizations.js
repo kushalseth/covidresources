@@ -11,8 +11,7 @@ function Text(language) {
 // make it a class
 var LocalizedText = {
   en: {
-    [Constants.application.localizationKeys.brandName]:
-      "Covid Resources Search",
+    [Constants.application.localizationKeys.brandName]: "#MyCovid",
     [Constants.application.localizationKeys.resources]: "Resources",
     [Constants.application.localizationKeys.jobs]: "JOBS",
     [Constants.application.localizationKeys.socialWorks]: "SOCIAL WORKS",
