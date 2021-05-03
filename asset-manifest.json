@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kushalseth/covidresources/covidresources/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/kushalseth/covidresources/covidresources/static/js/main.57d7bd1a.chunk.js",
-    "main.js.map": "/kushalseth/covidresources/covidresources/static/js/main.57d7bd1a.chunk.js.map",
-    "runtime-main.js": "/kushalseth/covidresources/covidresources/static/js/runtime-main.41112981.js",
-    "runtime-main.js.map": "/kushalseth/covidresources/covidresources/static/js/runtime-main.41112981.js.map",
-    "static/css/2.658248ec.chunk.css": "/kushalseth/covidresources/covidresources/static/css/2.658248ec.chunk.css",
-    "static/js/2.af60a807.chunk.js": "/kushalseth/covidresources/covidresources/static/js/2.af60a807.chunk.js",
-    "static/js/2.af60a807.chunk.js.map": "/kushalseth/covidresources/covidresources/static/js/2.af60a807.chunk.js.map",
-    "static/js/3.4694f916.chunk.js": "/kushalseth/covidresources/covidresources/static/js/3.4694f916.chunk.js",
-    "static/js/3.4694f916.chunk.js.map": "/kushalseth/covidresources/covidresources/static/js/3.4694f916.chunk.js.map",
-    "index.html": "/kushalseth/covidresources/covidresources/index.html",
-    "static/css/2.658248ec.chunk.css.map": "/kushalseth/covidresources/covidresources/static/css/2.658248ec.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/kushalseth/covidresources/covidresources/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.af60a807.chunk.js.LICENSE.txt": "/kushalseth/covidresources/covidresources/static/js/2.af60a807.chunk.js.LICENSE.txt"
+    "main.css": "/kushalseth/mycovid/covidresources/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/kushalseth/mycovid/covidresources/static/js/main.016460c7.chunk.js",
+    "main.js.map": "/kushalseth/mycovid/covidresources/static/js/main.016460c7.chunk.js.map",
+    "runtime-main.js": "/kushalseth/mycovid/covidresources/static/js/runtime-main.792517fc.js",
+    "runtime-main.js.map": "/kushalseth/mycovid/covidresources/static/js/runtime-main.792517fc.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/kushalseth/mycovid/covidresources/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.6770f89d.chunk.js": "/kushalseth/mycovid/covidresources/static/js/2.6770f89d.chunk.js",
+    "static/js/2.6770f89d.chunk.js.map": "/kushalseth/mycovid/covidresources/static/js/2.6770f89d.chunk.js.map",
+    "static/js/3.693cbec5.chunk.js": "/kushalseth/mycovid/covidresources/static/js/3.693cbec5.chunk.js",
+    "static/js/3.693cbec5.chunk.js.map": "/kushalseth/mycovid/covidresources/static/js/3.693cbec5.chunk.js.map",
+    "index.html": "/kushalseth/mycovid/covidresources/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/kushalseth/mycovid/covidresources/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/kushalseth/mycovid/covidresources/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.6770f89d.chunk.js.LICENSE.txt": "/kushalseth/mycovid/covidresources/static/js/2.6770f89d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41112981.js",
-    "static/css/2.658248ec.chunk.css",
-    "static/js/2.af60a807.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.57d7bd1a.chunk.js"
+    "static/js/runtime-main.792517fc.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.6770f89d.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.016460c7.chunk.js"
   ]
 }
